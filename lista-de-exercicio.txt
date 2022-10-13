@@ -1,0 +1,78 @@
+LISTA 1
+
+1.Faça um programa que peça dois números inteiros e imprima a soma desses dois números
+
+2)Escreva um programa que leia um valor em metros e o exiba convertido em milímetros
+
+3)Escreva um programa que leia a quantidade de dias, horas, minutos e segundos do usuário. Calcule o total em segundos.
+
+4)Faça um programa que calcule o aumento de um salário. Ele deve solicitar o valor do salário e a porcentagem do aumento. Exiba o valor do aumento e do novo salário.
+
+5)Solicite o preço de uma mercadoria e o percentual de desconto. Exiba o valor do desconto e o preço a pagar.
+
+6)Calcule o tempo de uma viagem de carro. Pergunte a distância a percorrer e a velocidade média esperada para a viagem. 
+
+7)Converta uma temperatura digitada em Celsius para Fahrenheit.F = 9*C/5 + 32
+
+8)Faça agora o contrário, de Fahrenheit para Celsius.
+
+9)Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado pelo usuário, assim como a quantidade de dias pelos quais o carro foi alugado. Calcule o preço a pagar,sabendo que o carro custa R$ 60,00 por dia e R$ 0,15 por km rodado.
+
+10)Escreva um programa para calcular a redução do tempo de vida de um fumante. Pergunte a quantidade de cigarros fumados por dia e quantos anos ele já fumou. Considere que um fumante perde 10 minutos de vida a cada cigarro, calcule quantos dias de vida um fumante perderá. Exiba o total de dias.
+
+11)Sabendo que str( ) converte valores numéricos para string, calcule quantos dígitos há em 2 elevado a um milhão.
+
+
+
+LISTA 2
+
+1.Faça um Programa que peça os três lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
+
+2.Determine se um ano é bissexto.Verifiqueno Google como fazer isso...
+
+3.João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso de peixes) e verifique se há excesso. Se houver, gravar na variável excesso e na variável multa o valor da multa que João deverá pagar. Caso contrário mostrar tais variáveis com o conteúdo ZERO.
+
+4.Faça um Programa que leia três números e mostre o maior deles.
+
+5.Faça um Programa que leia três números e mostre o maior e o menor deles.
+
+6.Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê o salário bruto, quanto pagou ao INSS, quanto pagou ao sindicatoeo salário líquido. Observe que Salário Bruto -Descontos = Salário Líquido. Calcule os descontos e o salário líquido, conforme a tabela abaixo:a.+ Salário Bruto : R$b.-IR (11%) : R$c.-INSS (8%) : R$d.-Sindicato ( 5%) : R$e.= Salário Liquido : R$
+
+7.Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendidaem latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.Obs. : somente são vendidos um número inteiro de latas
+
+LISTA 3
+
+1.Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
+
+2.Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha igual ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.
+
+3.Supondo que a população de um país A seja da ordem de 80000 habitantes com uma taxa anual de crescimento de 3% e que a população de B seja 200000 habitantes com uma taxa de crescimento de 1.5%. Faça um programa que calcule e escreva o número de anos necessários para que a população do país A ultrapasse ou iguale a população do país B, mantidas as taxas de crescimento.
+
+4.A seqüência de Fibonacci é a seguinte: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ... Sua regra de formação é simples: os dois primeiros elementos são 1; a partir de então, cada elemento é a soma dos dois anteriores. Faça um algoritmo que leia um número inteiro calcule o seu número de Fibonacci. F1= 1, F2= 1, F3= 2, etc.5.Dados dois números inteiros positivos, determinar o máximo divisor comum entre eles usando o algoritmo de Euclides.
+
+LISTA 3B
+
+1.Dizemos que um número natural é triangularse ele é produto de três números naturais consecutivos. Exemplo: 120 é triangular, pois 4.5.6 = 120. Dado um inteiro não-negativo n, verificar se né triangular.
+
+
+2.Indique como um troco deve ser dado utilizando-se um número mínimo de notas. Seu algoritmo deve ler o valor da conta a ser paga e o valor do pagamento efetuado desprezando os centavos. Suponha que as notas para troco sejam as de 50, 20, 10, 5, 2 e 1 reais, e que nenhuma delas esteja em falta no caixa.
+
+3.Verifique se um inteiro positivo n é primo.
+
+4.Dado um número inteiro positivo, determine a sua decomposição em fatores primos calculando também a multiplicidade de cada fator.5.Faça um programa quepeça um inteiro positivo e o mostre invertido. Ex.: 1234 gera 4321
+
+
+
+LISTA 4
+
+1.Sorteie 10 inteiros entre 1 e 100 para uma listae descubrao maior e o menor valor, sem usar as funções max e min.
+
+2.Sorteie 20 inteiros entre 1 e 100 numa lista. Armazene os números pares na listaPAR e os números ímpares na lista IMPAR. Imprima as três listas.
+
+3.Faça um programa que criedois vetores com 10 elementos aleatórios entre 1 e 100. Gere um terceirovetor de 20 elementos, cujos valores deverão ser compostos pelos elementos intercalados dos dois outros vetores.Imprima os três vetores.
+
+4.Seja o statement sobre diversidade: “The Python Software Foundation and the global Python community welcome and encourage participation by everyone. Our community is based on mutual respect, tolerance, and encouragement, and we are working to help each other live up to these principles. We want our community to be more diverse: whoever you are, and whatever your background, we welcome you.”. Gere uma lista de palavras deste texto com split(), a seguir crie uma lista com as palavras que começam ou terminam comuma das letras “python”.Imprima a lista resultante.Não se esqueça deremover antes os caracteres especiais e cuidado com maiúsculas e minúsculas.
+
+5.Seja o mesmo texto acima “splitado”. Calcule quantas palavras possuem uma das letras “python” e que tenham mais de 4 caracteres. Não se esqueça detransformar maiúsculas para minúsculas ede remover antes os caracteres especiais
+
+lista 2
